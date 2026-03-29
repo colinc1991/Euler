@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="EulerP1/EulerP1.csproj" />
+  <Project Path="EulerP2/EulerP2.csproj" />
+  <Project Path="EulerP3/EulerP3.csproj" />
+  <Project Path="EulerP4/EulerP4.csproj" />
+  <Project Path="EulerP5/EulerP5.csproj" />
+  <Project Path="EulerP6/EulerP6.csproj" />
+  <Project Path="EulerP7/EulerP7.csproj" />
+</Solution>
